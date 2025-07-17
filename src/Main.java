@@ -1,4 +1,6 @@
-package com.ericbouchut.java.oop.sandbox;
+import com.ericbouchut.java.oop.sandbox.Car;
+import com.ericbouchut.java.oop.sandbox.CarPower;
+import com.ericbouchut.java.oop.sandbox.Rectangle;
 
 public class Main {
     public static void main(String[] args) {
