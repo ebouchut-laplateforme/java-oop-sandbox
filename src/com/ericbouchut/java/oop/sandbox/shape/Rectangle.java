@@ -1,4 +1,4 @@
-package com.ericbouchut.java.oop.sandbox;
+package com.ericbouchut.java.oop.sandbox.shape;
 
 /**
  * A rectangle with 2 attributes <code>width</code> and <code>height</code>
@@ -10,11 +10,11 @@ public class Rectangle {
     /**
      * Create a new instance of a Rectangle with the passed-in arguments.
      *
-     * @param width the rectangle's width
+     * @param width  the rectangle's width
      * @param height the rectangle's height
      */
     public Rectangle(int width, int height) {
-        this.width  = width;
+        this.width = width;
         this.height = height;
     }
 
